@@ -1,2 +1,2 @@
 # RobotDriver
-I have no clue what I am doing here...
+Just learning how to create a little rover with the Raspberry Pi.
